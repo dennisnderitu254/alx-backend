@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+""" Simple pagination
+"""
+
 import csv
 from typing import List, Tuple
 
@@ -22,7 +26,7 @@ class Server:
         return self.__dataset
 
     def get_page(self, page: int = 1, page_size: int = 10) -> List[List]:
-        """ Find the correct indexes to paginate dataset.
+        """ Finds the correct indexes to paginate dataset.
         """
         assert type(page) == int
         assert type(page_size) == int
