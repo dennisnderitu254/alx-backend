@@ -288,6 +288,8 @@ msgid "logged_in_as"
 msgstr "Vous êtes connecté en tant que %(username)s."
 msgid "not_logged_in"
 msgstr "Vous n'êtes pas connecté."
+msgid "current_time_is"
+msgstr "Nous sommes le %(current_time)s."
 
 #: templates/4-index.html:7 templates/5-index.html:7 templates/6-index.html:7
 #: templates/7-index.html:7
@@ -299,6 +301,8 @@ msgid "logged_in_as"
 msgstr "Vous êtes connecté en tant que %(username)s."
 msgid "not_logged_in"
 msgstr "Vous n'êtes pas connecté."
+msgid "current_time_is"
+msgstr "Nous sommes le %(current_time)s."
 
 #: templates/5-index.html:9 templates/6-index.html:9 templates/7-index.html:9
 msgid "home_title"
@@ -309,6 +313,8 @@ msgid "logged_in_as"
 msgstr "Vous êtes connecté en tant que %(username)s."
 msgid "not_logged_in"
 msgstr "Vous n'êtes pas connecté."
+msgid "current_time_is"
+msgstr "Nous sommes le %(current_time)s."
 
 #: templates/5-index.html:11 templates/6-index.html:11
 #: templates/7-index.html:11
@@ -320,4 +326,7 @@ msgid "logged_in_as"
 msgstr "Vous êtes connecté en tant que %(username)s."
 msgid "not_logged_in"
 msgstr "Vous n'êtes pas connecté."
+msgid "current_time_is"
+msgstr "Nous sommes le %(current_time)s."
+
 
