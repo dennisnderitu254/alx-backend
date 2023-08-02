@@ -284,6 +284,10 @@ msgid "home_title"
 msgstr "Bienvenue chez Holberton"
 msgid "home_header"
 msgstr "Bonjour monde!"
+msgid "logged_in_as"
+msgstr "Vous êtes connecté en tant que %(username)s."
+msgid "not_logged_in"
+msgstr "Vous n'êtes pas connecté."
 
 #: templates/4-index.html:7 templates/5-index.html:7 templates/6-index.html:7
 #: templates/7-index.html:7
@@ -291,12 +295,20 @@ msgid "home_title"
 msgstr "Bienvenue chez Holberton"
 msgid "home_header"
 msgstr "Bonjour monde!"
+msgid "logged_in_as"
+msgstr "Vous êtes connecté en tant que %(username)s."
+msgid "not_logged_in"
+msgstr "Vous n'êtes pas connecté."
 
 #: templates/5-index.html:9 templates/6-index.html:9 templates/7-index.html:9
 msgid "home_title"
 msgstr "Bienvenue chez Holberton"
 msgid "home_header"
 msgstr "Bonjour monde!"
+msgid "logged_in_as"
+msgstr "Vous êtes connecté en tant que %(username)s."
+msgid "not_logged_in"
+msgstr "Vous n'êtes pas connecté."
 
 #: templates/5-index.html:11 templates/6-index.html:11
 #: templates/7-index.html:11
@@ -304,4 +316,8 @@ msgid "home_title"
 msgstr "Bienvenue chez Holberton"
 msgid "home_header"
 msgstr "Bonjour monde!"
+msgid "logged_in_as"
+msgstr "Vous êtes connecté en tant que %(username)s."
+msgid "not_logged_in"
+msgstr "Vous n'êtes pas connecté."
 
