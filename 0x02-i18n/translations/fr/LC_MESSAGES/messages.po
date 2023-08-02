@@ -281,19 +281,27 @@ msgstr[1] ""
 #: templates/4-index.html:4 templates/5-index.html:4 templates/6-index.html:4
 #: templates/7-index.html:4
 msgid "home_title"
-msgstr ""
+msgstr "Bienvenue chez Holberton"
+msgid "home_header"
+msgstr "Bonjour monde!"
 
 #: templates/4-index.html:7 templates/5-index.html:7 templates/6-index.html:7
 #: templates/7-index.html:7
+msgid "home_title"
+msgstr "Bienvenue chez Holberton"
 msgid "home_header"
-msgstr ""
+msgstr "Bonjour monde!"
 
 #: templates/5-index.html:9 templates/6-index.html:9 templates/7-index.html:9
-msgid "logged_in_as"
-msgstr ""
+msgid "home_title"
+msgstr "Bienvenue chez Holberton"
+msgid "home_header"
+msgstr "Bonjour monde!"
 
 #: templates/5-index.html:11 templates/6-index.html:11
 #: templates/7-index.html:11
-msgid "not_logged_in"
-msgstr ""
+msgid "home_title"
+msgstr "Bienvenue chez Holberton"
+msgid "home_header"
+msgstr "Bonjour monde!"
 

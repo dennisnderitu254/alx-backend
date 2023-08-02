@@ -275,25 +275,34 @@ msgstr ""
 #: env/lib/python3.8/site-packages/click/types.py:987
 msgid "{len_type} values are required, but {len_value} was given."
 msgid_plural "{len_type} values are required, but {len_value} were given."
-msgstr[0] ""
-msgstr[1] ""
+msgid "home_title"
+msgstr "Welcome to Holberton"
+msgid "home_header"
+msgstr "Hello world!"
 
 #: templates/4-index.html:4 templates/5-index.html:4 templates/6-index.html:4
 #: templates/7-index.html:4
 msgid "home_title"
-msgstr ""
+msgstr "Welcome to Holberton"
+msgid "home_header"
+msgstr "Hello world!"
 
 #: templates/4-index.html:7 templates/5-index.html:7 templates/6-index.html:7
 #: templates/7-index.html:7
+msgid "home_title"
+msgstr "Welcome to Holberton"
 msgid "home_header"
-msgstr ""
+msgstr "Hello world!"
 
 #: templates/5-index.html:9 templates/6-index.html:9 templates/7-index.html:9
-msgid "logged_in_as"
-msgstr ""
+msgid "home_title"
+msgstr "Welcome to Holberton"
+msgid "home_header"
+msgstr "Hello world!"
 
 #: templates/5-index.html:11 templates/6-index.html:11
 #: templates/7-index.html:11
-msgid "not_logged_in"
-msgstr ""
-
+msgid "home_title"
+msgstr "Welcome to Holberton"
+msgid "home_header"
+msgstr "Hello world!"
