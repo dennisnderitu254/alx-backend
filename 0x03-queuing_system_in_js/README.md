@@ -161,6 +161,29 @@ Requirements:
 -   Directory: `0x03-queuing_system_in_js`
 -   File: `README.md, dump.rdb`
 
+**----------------SOLUTION----------------**
+
+```
+nderitu@ndech:~/redis-6.0.10$ src/redis-cli ping
+PONG
+nderitu@ndech:~/redis-6.0.10$ src/redis-cli
+127.0.0.1:6379> set Holberton School
+OK
+127.0.0.1:6379> get Holberton
+"School"
+127.0.0.1:6379> BGSAVE
+Background saving started
+127.0.0.1:6379> CONFIG GET dir
+1) "dir"
+2) "/home/nderitu/redis-6.0.10"
+127.0.0.1:6379> set Holberton School
+OK
+127.0.0.1:6379> get Holberton
+"School"
+127.0.0.1:6379>
+```
+
+
  Done? Help Get a sandbox
 
 ### 1\. Node Redis Client
