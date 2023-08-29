@@ -182,9 +182,7 @@ OK
 "School"
 127.0.0.1:6379>
 ```
-
-
- Done? Help Get a sandbox
+Done? Help Get a sandbox
 
 ### 1\. Node Redis Client
 
