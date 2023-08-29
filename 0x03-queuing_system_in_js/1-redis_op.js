@@ -15,7 +15,9 @@ client.on('connect', () => {
 });
 
 function setNewSchool(schoolName, value) {
-    client.set(schoolName, value, redis.print());
+    client.set(schoolName, value, (error, response) => {
+        redis.print(`Reply: ${response}`);
+    });
 }
 
 let displaySchoolValue = async schoolName => {
