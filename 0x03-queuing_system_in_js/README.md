@@ -524,7 +524,12 @@ Now you have a basic Redis-based queuing system where you have a process to gene
 -   Directory: `0x03-queuing_system_in_js`
 -   File: `5-subscriber.js, 5-publisher.js`
 
- Done? Help Get a sandbox
+**-------------------CODE IMPLEMENTATION----------------------**
+
+`5-subscriber.js`
+
+It creates a Redis client that subscribes to the 'holberton school channel',
+logs received messages, and handles the 'KILL_SERVER' command by unsubscribing and quitting the client.
 
 ### 6\. Create the Job creator
 
